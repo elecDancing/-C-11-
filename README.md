@@ -37,9 +37,7 @@
     sudo apt upgrade && sudo apt install libjsoncpp-dev
     
 ### CMake 
-    # 如果你不会Cmake下面就不用看了，自己编译的时候链接上面两个库就行啦
-
-    # 要编译本项目，要安装CMake
+    # 要编译本项目，要安装CMake（虽然就一点东西，但是用cmake比较装逼）
     sudo apt upgrade && sudo apt install cmake    
 
     # 如果你想学CMake,自己去找资料吧。这里说作者的难点，编译，链接上方两个库
